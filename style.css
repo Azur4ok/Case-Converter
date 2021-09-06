@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+}
+.title{
+
+}
+.text-area{
+    height: 300px;
+    width: 500px;
+}
+button{
+    margin-top: 15px;
+    background-color: coral;
+}
