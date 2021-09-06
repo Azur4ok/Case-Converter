@@ -1,2 +1,2 @@
 # Case-Converter
-web app  work with text in differents cases
+web app  work with text in different cases
